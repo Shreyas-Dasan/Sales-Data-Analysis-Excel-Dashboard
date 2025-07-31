@@ -1,11 +1,11 @@
 # Sales-Data-Analysis-Excel-Dashboard
 Project Overview: 
-This Excel-based project provides an interactive and automated Sales Data Analysis Dashboard built using advanced Excel features. It enables efficient tracking of key sales metrics, comparison across regions/products, and dynamic report generation to assist decision-makers in understanding business performance.
+This Excel based project provides an interactive and automated Sales Data Analysis Dashboard built using advanced Excel features. It enables efficient tracking of key sales metrics, comparison across regions/products, and dynamic report generation to assist decision-makers in understanding business performance.
 
 Objectives:
 1. Analyse sales performance across time, region, and product segments.
-2. Identify top-performing products and regions.
-3. Provide an automated and user-friendly dashboard using Excel VBA/macros.
+2. Identify top performing products and regions.
+3. Provide an automated and user friendly dashboard using Excel VBA/macros.
 4. Enable filtering and dynamic reporting for deeper insights.
 
 Tools & Features:
